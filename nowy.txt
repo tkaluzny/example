@@ -1,4 +1,1 @@
-Jest to
-Czesc pliku
-Modyfikowana
-Branch hotfix 
+linia hotfix
