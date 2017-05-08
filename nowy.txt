@@ -1,4 +1,1 @@
-Ta czesc
-Pliku modyfokowana
-Z galezi
-Master
+plik master
