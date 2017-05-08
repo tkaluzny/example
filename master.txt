@@ -1,2 +1,3 @@
 # Z galezi master
 # Nowa linia mastera
+# Z galezi hotfix
