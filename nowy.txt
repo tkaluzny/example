@@ -1,0 +1,2 @@
+Linia dodana z branch master
+Linia dodana z branch hotfix
